@@ -1,5 +1,7 @@
 # Eliza Chatbot
 
+Work in Progress
+
 ## Overview
 
 Welcome to the Eliza Chatbot! This application uses a Python backend with regex patterns to simulate a conversation with a Rogerian psychotherapist, commonly known as the Eliza chatbot. The frontend is built using React, HTML, and CSS to provide an interactive and user-friendly chat interface.
